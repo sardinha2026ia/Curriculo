@@ -191,7 +191,7 @@ main,
 
 .hero-photo {
   position: relative;
-  width: min(100%, 440px);
+  width: min(100%, 360px);
   margin-inline: auto;
   perspective: 900px;
 }
